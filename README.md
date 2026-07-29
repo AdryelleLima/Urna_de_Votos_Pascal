@@ -1,2 +1,2 @@
 # Urna_de_Votos_Pascal
-programa para urna de votos em pascal
+programa para urna de votos em pascal, código simples
